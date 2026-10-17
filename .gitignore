@@ -1,0 +1,26 @@
+# 本机运行状态和日志
+DragonCodexBoot-0.2.0/.integration/
+DragonCodexBoot-0.2.0/logs/
+DragonCodexBoot-0.2.0/launcher.json.backup-*
+DragonCodexBoot-0.2.0/media/startup-backup-*.mp4
+
+# 本机快捷方式备份
+shortcut-backups/
+
+# 视频抽帧、预览和临时素材
+video_frames/
+new_video_frames/
+new2_check/
+video_contact.jpg
+new_video_contact.jpg
+launcher-icon-preview.png
+pet_run/
+*.fixed.lnk
+*.fixed2.lnk
+*.lnk
+
+# 本地分发压缩包
+*.zip
+
+# Codex 本地工作流状态
+.spec-workflow/

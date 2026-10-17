@@ -1,0 +1,50 @@
+{
+  "AutoReplaceEntrypoints": true,
+  "ScanAllLocalDrives": false,
+  "Video": "media/startup.mp4",
+  "AppLaunch": "shell:AppsFolder\\OpenAI.Codex_2p2nqsd0c76g0!App",
+  "ProcessPathContains": "OpenAI.Codex_",
+  "ProcessNames": [
+    "ChatGPT",
+    "Codex"
+  ],
+  "HoldAt": 11.3,
+  "TransitionStart": 12.3,
+  "TransitionEnd": 14.7,
+  "MaxWaitSeconds": 60,
+  "Volume": 1,
+  "PlayerWidth": 1920,
+  "PlayerHeight": 1080,
+  "MatchClientToPlayer": true,
+  "ScreenFrames": [
+    {
+      "Width": 0.8,
+      "Time": 12.3,
+      "Y": 0.1,
+      "X": 0.1,
+      "Height": 0.8
+    },
+    {
+      "Width": 0.9,
+      "Time": 13.0,
+      "Y": 0.06,
+      "X": 0.05,
+      "Height": 0.88
+    },
+    {
+      "Width": 0.96,
+      "Time": 13.8,
+      "Y": 0.02,
+      "X": 0.02,
+      "Height": 0.96
+    },
+    {
+      "Width": 1,
+      "Time": 14.7,
+      "Y": 0,
+      "X": 0,
+      "Height": 1
+    }
+  ],
+  "DisplayName": "Dragon Codex Boot"
+}
